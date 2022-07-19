@@ -1,0 +1,1000 @@
+Ticket ID,Subject,Status,Priority,Type,Agent,Group,Created time,Due by Time,Resolved time,Closed time,Last update time,Resolution time (in hrs),Resolution status,Tags,Association type,Store,Bot Serial Number,Daily OPS,Implementation Main Ticket,Parent ID,Full name,Email,Zip Code,State,City,Adress,Adress concat,Step name,resolution_time_2,,,Tiempo de resolucion,Resolution time calendar,,,,
+6003,HD0277 THD Implementation Store,Working on it,Low,Implementation,Kingsley Agbedun,THD Implementation,2022-07-05 15:01:20,2022-07-19 15:01:00,,,2022-07-06 14:14:03,0:00:00,,"Implementation,THD",Parent,HD0277,PVS20220314T1A1101,,0,,Tripp Hemker,tripp.hemker@zippedi.com,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.",,0,0,0,,,-1073943:01:20,-1073943,1,20
+6004,HD0277 01 Check 24h power for new store,Closed,High,Implementation,Miguel Farias,Operations,2022-07-05 15:01:22,2022-07-06 12:31:22,2022-07-07 9:12:02,2022-07-09 9:22:03,2022-07-09 9:22:03,15:10:40,SLA Violated,"Implementation,THD,OPS,Daily OPS",Child,HD0277,PVS20220314T1A1101,Yes,1,6003,Tripp Hemker,tripp.hemker@zippedi.com,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.",01 Check 24h Power,15,10,40,15.17777778,42.17777778,42:10:40,42,10,40
+6005,HD0277 02 Update Software and check robot,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-05 15:01:23,2022-07-06 15:01:23,2022-07-06 11:04:50,2022-07-08 11:23:11,2022-07-08 11:23:11,6:33:27,Within SLA,"Implementation,THD",Child,HD0277,PVS20220314T1A1101,,2,6003,Tripp Hemker,tripp.hemker@zippedi.com,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.",02 Update Software and Check Robot,6,33,27,6.5575,20.0575,20:03:27,20,3,27
+6006,"HD0277 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-05 15:01:23,2022-07-06 8:31:23,2022-07-05 16:35:13,2022-07-07 17:24:42,2022-07-07 17:24:42,1:33:50,Within SLA,"Implementation,THD,OPS",Child,HD0277,PVS20220314T1A1101,,3,6003,Lucas Ron,lucas@zippedi.com,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.","03 Get Robot Info, generate API keys and update robot",1,33,50,1.563888889,1.563888889,1:33:50,1,33,50
+6007,HD0277 04 On-site Mapping,Closed,Low,Implementation,Kingsley Agbedun,THD Implementation,2022-07-05 15:01:24,2022-07-07 10:00:00,2022-07-07 10:34:08,2022-07-09 11:27:15,2022-07-09 11:27:15,43:32:42,SLA Violated,"Implementation,THD",Child,HD0277,PVS20220314T1A1101,,4,6003,Tripp Hemker,tripp.hemker@zippedi.com,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.",04 On-site Mapping,43,32,42,43.545,43.54555556,43:32:44,43,32,44
+6014,HD6892 THD Implementation Store,Working on it,Low,Implementation,Vernon Allen,THD Implementation,2022-07-05 16:32:05,2022-07-19 16:32:00,,,2022-07-06 14:14:11,0:00:00,,"Implementation,THD",Parent,HD6892,SYS20210915T1A1096,,0,,Vernon Allen,vernon.allen@zippedi.com,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.",,0,0,0,,,-1073944:32:05,-1073944,32,5
+6015,HD6892 01 Check 24h power for new store,Closed,High,Implementation,Miguel Farias,Operations,2022-07-05 16:32:06,2022-07-06 14:02:06,2022-07-07 9:12:04,2022-07-09 9:22:03,2022-07-09 9:22:03,13:39:58,SLA Violated,"Implementation,THD,OPS,Daily OPS",Child,HD6892,1117119147,Yes,1,6014,Vernon Allen,vernon.allen@zippedi.com,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.",01 Check 24h Power,13,39,58,13.66611111,40.66611111,40:39:58,40,39,58
+6016,HD6892 02 Update Software and check robot,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-05 16:32:06,2022-07-06 16:32:06,2022-07-06 11:24:22,2022-07-08 12:25:49,2022-07-08 12:25:49,5:22:16,Within SLA,"Implementation,THD",Child,HD6892,1117119147,,2,6014,Vernon Allen,vernon.allen@zippedi.com,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.",02 Update Software and Check Robot,5,22,16,5.371111111,18.87111111,18:52:16,18,52,16
+6017,"HD6892 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-05 16:32:07,2022-07-06 10:02:07,2022-07-05 17:53:27,2022-07-07 18:26:03,2022-07-07 18:26:03,1:21:20,Within SLA,"Implementation,THD,OPS",Child,HD6892,1117119147,,3,6014,Lucas Ron,lucas@zippedi.com,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.","03 Get Robot Info, generate API keys and update robot",1,21,20,1.355555556,1.355555556,1:21:20,1,21,20
+6018,HD6892 04 On-site Mapping,Closed,Low,Implementation,Kingsley Agbedun,THD Implementation,2022-07-05 16:32:07,2022-07-12 16:32:00,2022-07-11 13:58:12,2022-07-13 14:27:12,2022-07-13 14:27:12,21:25:59,Within SLA,"Implementation,THD",Child,HD6892,1117119147,,4,6014,Vernon Allen,vernon.allen@zippedi.com,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.",04 On-site Mapping,21,25,59,21.43305556,141.4347222,141:26:05,141,26,5
+6019,HD0566 THD Implementation Store,Working on it,Low,Implementation,Kingsley Agbedun,THD Implementation,2022-07-05 17:02:43,2022-07-19 12:00:00,,,2022-07-06 14:14:19,0:00:00,,"Implementation,THD",Parent,HD0566,SYS20210913T2A2092,,0,,Kingsley Agbedun,kingsley.agbedun@zippedi.com,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.",,0,0,0,,,-1073945:02:43,-1073945,2,43
+6020,HD0566 01 Check 24h power for new store,Closed,High,Implementation,Miguel Farias,Operations,2022-07-05 17:02:44,2022-07-06 14:32:44,2022-07-07 9:12:07,2022-07-09 9:22:03,2022-07-09 9:22:03,13:09:23,SLA Violated,"Implementation,THD,OPS,Daily OPS",Child,HD0566,SYS20210913T2A2092,Yes,1,6019,Kingsley Agbedun,kingsley.agbedun@zippedi.com,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.",01 Check 24h Power,13,9,23,13.15638889,40.15638889,40:09:23,40,9,23
+6021,HD0566 02 Update Software and check robot,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-05 17:02:44,2022-07-06 17:02:43,2022-07-06 11:11:43,2022-07-08 11:23:12,2022-07-08 11:23:12,4:38:59,Within SLA,"Implementation,THD",Child,HD0566,SYS20210913T2A2092,,2,6019,Kingsley Agbedun,kingsley.agbedun@zippedi.com,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.",02 Update Software and Check Robot,4,38,59,4.649722222,18.14972222,18:08:59,18,8,59
+6022,"HD0566 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-05 17:02:45,2022-07-06 10:32:45,2022-07-05 17:53:33,2022-07-07 18:26:03,2022-07-07 18:26:03,0:50:48,Within SLA,"Implementation,THD,OPS",Child,HD0566,SYS20210913T2A2092,,3,6019,Lucas Ron,lucas@zippedi.com,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.","03 Get Robot Info, generate API keys and update robot",0,50,48,0.8466666667,0.8466666667,0:50:48,0,50,48
+6023,HD0566 04 On-site Mapping,Closed,Low,Implementation,Kingsley Agbedun,THD Implementation,2022-07-05 17:02:45,2022-07-11 10:00:00,2022-07-12 9:29:49,2022-07-14 10:24:06,2022-07-14 10:24:06,16:26:57,SLA Violated,"Implementation,THD",Child,HD0566,SYS20210913T2A2092,,4,6019,Kingsley Agbedun,kingsley.agbedun@zippedi.com,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.",04 On-site Mapping,16,26,57,16.44916667,160.4511111,160:27:04,160,27,4
+6087,HD0503 THD Implementation Store,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-06 16:11:14,2022-07-20 16:11:00,,,2022-07-06 17:14:23,0:00:00,,"Implementation,THD",Parent,HD0503,SYS20210913T1A1091,,0,,Kingsley Agbedun,kingsley.agbedun@zippedi.com,78223,TX,San Antonio,"527 Fair Ave, San Antonio, TX 78223, US.","527 Fair Ave, San Antonio, TX 78223, US.",,0,0,0,,,-1073968:11:14,-1073968,11,14
+6088,HD0503 01 Check 24h power for new store,Closed,High,Implementation,Miguel Farias,Operations,2022-07-06 16:11:14,2022-07-08 10:00:00,2022-07-08 9:42:24,2022-07-10 10:26:34,2022-07-10 10:26:34,14:31:10,Within SLA,"Implementation,THD,OPS,Daily OPS",Child,HD0503,SYS20210913T1A1091,Yes,1,6087,Kingsley Agbedun,kingsley.agbedun@zippedi.com,78223,TX,San Antonio,"527 Fair Ave, San Antonio, TX 78223, US.","527 Fair Ave, San Antonio, TX 78223, US.",01 Check 24h Power,14,31,10,14.51944444,41.51944444,41:31:10,41,31,10
+6089,HD0503 02 Update Software and check robot,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-06 16:11:15,2022-07-07 16:11:15,2022-07-06 18:18:58,2022-07-08 18:31:59,2022-07-08 18:31:59,1:48:45,Within SLA,"Implementation,THD,OPS",Child,HD0503,SYS20210913T1A1091,,2,6087,Kingsley Agbedun,kingsley.agbedun@zippedi.com,78223,TX,San Antonio,"527 Fair Ave, San Antonio, TX 78223, US.","527 Fair Ave, San Antonio, TX 78223, US.",02 Update Software and Check Robot,1,48,45,1.8125,2.128611111,2:07:43,2,7,43
+6090,"HD0503 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-06 16:11:15,2022-07-07 9:41:15,2022-07-06 18:04:42,2022-07-08 18:31:59,2022-07-08 18:31:59,1:48:45,Within SLA,"Implementation,THD,OPS",Child,HD0503,SYS20210913T1A1091,,3,6087,Lucas Ron,lucas@zippedi.com,78223,TX,San Antonio,"527 Fair Ave, San Antonio, TX 78223, US.","527 Fair Ave, San Antonio, TX 78223, US.","03 Get Robot Info, generate API keys and update robot",1,48,45,1.8125,1.890833333,1:53:27,1,53,27
+6091,HD0503 04 On-site Mapping HD0503,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-06 16:11:16,2022-07-13 10:00:00,2022-07-13 10:02:28,2022-07-15 10:25:10,2022-07-15 10:25:10,17:51:05,SLA Violated,"Implementation,THD",Child,HD0503,SYS20210913T1A1091,,4,6087,Kingsley Agbedun,kingsley.agbedun@zippedi.com,78223,TX,San Antonio,"527 Fair Ave, San Antonio, TX 78223, US.","527 Fair Ave, San Antonio, TX 78223, US.",04 On-site Mapping,17,51,5,17.85138889,161.8533333,161:51:12,161,51,12
+6092,HD6516 THD Implementation Store,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-06 16:48:01,2022-07-20 16:48:00,,,2022-07-06 17:57:29,0:00:00,,"Implementation,THD",Parent,HD6516,SYS20210913T3A3095,,0,,Vernon Allen,vernon.allen@zippedi.com,77385,TX,Conroe,"19103 I-45, Conroe, TX 77385, US.","19103 I-45, Conroe, TX 77385, US.",,0,0,0,,,-1073968:48:01,-1073968,48,1
+6093,HD6516 01 Check 24h power for new store,Closed,High,Implementation,Miguel Farias,Operations,2022-07-06 16:48:01,2022-07-07 23:59:59,2022-07-08 9:42:07,2022-07-10 10:26:34,2022-07-10 10:26:34,13:54:06,SLA Violated,"Implementation,THD,OPS,Daily OPS",Child,HD6516,SYS20210913T3A3095,Yes,1,6092,Vernon Allen,vernon.allen@zippedi.com,77385,TX,Conroe,"19103 I-45, Conroe, TX 77385, US.","19103 I-45, Conroe, TX 77385, US.",01 Check 24h Power,13,54,6,13.90166667,40.90166667,40:54:06,40,54,6
+6094,HD6516 02 Update Software and check robot,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-06 16:48:02,2022-07-07 16:48:02,2022-07-07 16:39:13,2022-07-09 17:25:26,2022-07-09 17:25:26,10:21:11,Within SLA,"Implementation,THD,OPS",Child,HD6516,SYS20210913T3A3095,,2,6092,Vernon Allen,vernon.allen@zippedi.com,77385,TX,Conroe,"19103 I-45, Conroe, TX 77385, US.","19103 I-45, Conroe, TX 77385, US.",02 Update Software and Check Robot,10,21,11,10.35305556,23.85305556,23:51:11,23,51,11
+6095,"HD6516 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-06 16:48:02,2022-07-07 10:18:02,2022-07-06 18:09:10,2022-07-08 18:31:59,2022-07-08 18:31:59,1:11:58,Within SLA,"Implementation,THD,OPS",Child,HD6516,SYS20210913T3A3095,,3,6092,Lucas Ron,lucas@zippedi.com,77385,TX,Conroe,"19103 I-45, Conroe, TX 77385, US.","19103 I-45, Conroe, TX 77385, US.","03 Get Robot Info, generate API keys and update robot",1,11,58,1.199444444,1.352222222,1:21:08,1,21,8
+6096,HD6516 04 On-site Mapping HD6516,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-06 16:48:03,2022-07-14 16:48:00,2022-07-13 10:08:44,2022-07-15 10:25:11,2022-07-15 10:25:11,17:20:34,Within SLA,"Implementation,THD",Child,HD6516,SYS20210913T3A3095,,4,6092,Vernon Allen,vernon.allen@zippedi.com,77385,TX,Conroe,"19103 I-45, Conroe, TX 77385, US.","19103 I-45, Conroe, TX 77385, US.",04 On-site Mapping,17,20,34,17.34277778,161.3447222,161:20:41,161,20,41
+6142,HD0277 05 Consolidate Map and layout,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-07 10:34:09,2022-07-07 23:45:00,2022-07-07 20:17:43,2022-07-09 21:23:52,2022-07-09 21:23:52,7:25:51,Within SLA,"THD,Implementation,OPS",Child,HD0277,PVS20220314T1A1101,,5,6003,Tripp Hemker,tripp.hemker@zippedi.com,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.",05 Map and layout consolidation,7,25,51,7.430833333,9.726111111,9:43:34,9,43,34
+6151,HD0526 THD Implementation Store,Working on it,Low,Implementation,Kingsley Agbedun,THD Implementation,2022-07-07 13:42:36,2022-07-21 13:42:00,,,2022-07-07 14:10:29,0:00:00,,"Implementation,THD",Parent,HD0526,SYS20210913T3A3088,,0,,Kingsley Agbedun,kingsley.agbedun@zippedi.com,78411,TX,Corpus Christi,"5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.","5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.",,0,0,0,,,-1073989:42:36,-1073989,42,36
+6152,HD0526 01 Check 24h power for new store,Closed,Medium,Implementation,Miguel Farias,Operations,2022-07-07 13:42:36,2022-07-11 10:00:00,2022-07-11 9:14:07,2022-07-13 10:16:19,2022-07-13 10:16:19,16:31:31,Within SLA,"Implementation,THD,OPS,Daily OPS",Child,HD0526,SYS20210913T3A3088,Yes,1,6151,Kingsley Agbedun,kingsley.agbedun@zippedi.com,78411,TX,Corpus Christi,"5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.","5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.",01 Check 24h Power,16,31,31,16.52527778,91.52527778,91:31:31,91,31,31
+6153,HD0526 02 Update Software and check robot,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-07 13:42:37,2022-07-08 23:59:59,2022-07-07 17:17:58,2022-07-09 17:25:27,2022-07-09 17:25:27,3:35:21,Within SLA,"Implementation,THD,OPS",Child,HD0526,SYS20210913T3A3088,,2,6151,Kingsley Agbedun,kingsley.agbedun@zippedi.com,78411,TX,Corpus Christi,"5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.","5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.",02 Update Software and Check Robot,3,35,21,3.589166667,3.589166667,3:35:21,3,35,21
+6154,"HD0526 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-07 13:42:37,2022-07-08 11:12:37,2022-07-07 17:02:11,2022-07-09 17:25:28,2022-07-09 17:25:27,3:19:34,Within SLA,"Implementation,THD,OPS",Child,HD0526,SYS20210913T3A3088,,3,6151,Lucas Ron,lucas@zippedi.com,78411,TX,Corpus Christi,"5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.","5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.","03 Get Robot Info, generate API keys and update robot",3,19,34,3.326111111,3.326111111,3:19:34,3,19,34
+6155,HD0526 04 On-site Mapping HD0526,Resolved,Low,Implementation,No Agent,THD Implementation,2022-07-07 13:42:38,2022-07-18 10:00:00,2022-07-18 8:56:19,,2022-07-18 8:56:19,19:13:30,Within SLA,"Implementation,THD",Child,HD0526,SYS20210913T3A3088,,4,6151,Kingsley Agbedun,kingsley.agbedun@zippedi.com,78411,TX,Corpus Christi,"5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.","5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.",04 On-site Mapping,19,13,30,19.225,259.2280556,259:13:41,259,13,41
+6170,HD0277 06 On-site mapping validation,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-07 20:17:44,2022-07-09 20:17:44,2022-07-08 6:17:37,2022-07-10 6:27:00,2022-07-10 6:27:00,9:59:52,Within SLA,"THD,Implementation",Child,HD0277,PVS20220314T1A1101,,6,6003,Tripp Hemker,tripp.hemker@zippedi.com,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.",06 On-site Map validation,9,59,52,9.997777778,9.998055556,9:59:53,9,59,53
+6181,HD0277 07 Start Scan Testing,Closed,Low,Implementation,Lucas Ron,Operations,2022-07-08 6:17:37,2022-07-12 12:00:51,2022-07-12 13:04:47,2022-07-14 13:24:00,2022-07-14 13:24:00,2:34:47,SLA Violated,"THD,Implementation,OPS,Daily OPS",Child,HD0277,PVS20220314T1A1101,Yes,7,6003,Tripp Hemker,tripp.hemker@zippedi.com,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.",07 Scan Testing,2,34,47,2.579722222,102.7861111,102:47:10,102,47,10
+6205,HD0279 THD Implementation Store,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-08 13:59:46,2022-07-22 12:00:00,,,2022-07-08 14:29:41,0:00:00,,"Implementation,THD",Parent,HD0279,PVS20220314T2A2102,,0,,,,33604,FL,Tampa,"8815 N Florida Ave, Tampa, FL 33604, US.","8815 N Florida Ave, Tampa, FL 33604, US.",,0,0,0,,,-1074013:59:46,-1074013,59,46
+6206,HD0279 01 Check 24h power for new store,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-08 13:59:47,2022-07-11 16:29:47,2022-07-11 9:29:17,2022-07-13 10:16:20,2022-07-13 10:16:20,5:59:30,Within SLA,"Implementation,THD,OPS,Daily OPS",Child,HD0279,PVS20220314T2A2102,Yes,1,6205,,,33604,FL,Tampa,"8815 N Florida Ave, Tampa, FL 33604, US.","8815 N Florida Ave, Tampa, FL 33604, US.",01 Check 24h Power,5,59,30,5.991666667,67.49166667,67:29:30,67,29,30
+6207,HD0279 02 Update Software and check robot,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-08 13:59:47,2022-07-11 11:29:47,2022-07-08 18:21:16,2022-07-10 18:24:56,2022-07-10 18:24:56,4:00:13,Within SLA,"Implementation,THD,OPS",Child,HD0279,PVS20220314T2A2102,,2,6205,,,33604,FL,Tampa,"8815 N Florida Ave, Tampa, FL 33604, US.","8815 N Florida Ave, Tampa, FL 33604, US.",02 Update Software and Check Robot,4,0,13,4.003611111,4.358055556,4:21:29,4,21,29
+6208,"HD0279 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-08 13:59:47,2022-07-11 11:29:47,2022-07-08 18:14:56,2022-07-10 18:24:56,2022-07-10 18:24:56,4:00:13,Within SLA,"Implementation,THD,OPS",Child,HD0279,PVS20220314T2A2102,,3,6205,,,33604,FL,Tampa,"8815 N Florida Ave, Tampa, FL 33604, US.","8815 N Florida Ave, Tampa, FL 33604, US.","03 Get Robot Info, generate API keys and update robot",4,0,13,4.003611111,4.2525,4:15:09,4,15,9
+6209,HD0279 04 On-site Mapping HD0279,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-08 13:59:48,2022-07-12 10:00:00,2022-07-12 7:46:23,2022-07-14 8:23:33,2022-07-14 8:23:33,17:46:31,Within SLA,"Implementation,THD",Child,HD0279,PVS20220314T2A2102,,4,6205,,,33604,FL,Tampa,"8815 N Florida Ave, Tampa, FL 33604, US.","8815 N Florida Ave, Tampa, FL 33604, US.",04 On-site Mapping,17,46,31,17.77527778,89.77638889,89:46:35,89,46,35
+6288,HD6892 05 Consolidate Map and layout,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-11 13:58:14,2022-07-12 11:28:14,2022-07-12 19:37:12,2022-07-14 20:24:25,2022-07-14 20:24:25,14:31:46,SLA Violated,"THD,Implementation,OPS",Child,HD6892,1117119147,,5,6014,,,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.",05 Map and layout consolidation,14,31,46,14.52944444,29.64944444,29:38:58,29,38,58
+6299,HD6515 THD Implementation Store,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-11 17:09:19,2022-07-25 23:59:00,,,2022-07-12 13:30:26,0:00:00,,"Implementation,THD",Parent,HD6515,PVS20220321T1A1111,,0,,,,76086,TX,Weatherford,"220 I-20 West, Weatherford, TX 76086, US.","220 I-20 West, Weatherford, TX 76086, US.",,0,0,0,,,-1074089:09:19,-1074089,9,19
+6300,HD6515 01 Check 24h power for new store,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-11 17:09:19,2022-07-13 9:09:19,2022-07-13 9:12:16,2022-07-15 9:25:29,2022-07-15 9:25:29,13:02:57,SLA Violated,"Implementation,THD,OPS,Daily OPS",Child,HD6515,PVS20220321T1A1111,Yes,1,6299,,,76086,TX,Weatherford,"220 I-20 West, Weatherford, TX 76086, US.","220 I-20 West, Weatherford, TX 76086, US.",01 Check 24h Power,13,2,57,13.04916667,40.04916667,40:02:57,40,2,57
+6301,HD6515 02 Update Software and check robot,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-11 17:09:20,2022-07-12 14:39:20,2022-07-12 14:28:30,2022-07-14 15:25:04,2022-07-14 15:25:04,7:49:10,Within SLA,"Implementation,THD,OPS",Child,HD6515,PVS20220321T1A1111,,2,6299,,,76086,TX,Weatherford,"220 I-20 West, Weatherford, TX 76086, US.","220 I-20 West, Weatherford, TX 76086, US.",02 Update Software and Check Robot,7,49,10,7.819444444,21.31944444,21:19:10,21,19,10
+6302,"HD6515 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-11 17:09:20,2022-07-12 14:39:20,2022-07-12 14:18:00,2022-07-14 14:26:02,2022-07-14 14:26:02,7:38:40,Within SLA,"Implementation,THD,OPS",Child,HD6515,PVS20220321T1A1111,,3,6299,,,76086,TX,Weatherford,"220 I-20 West, Weatherford, TX 76086, US.","220 I-20 West, Weatherford, TX 76086, US.","03 Get Robot Info, generate API keys and update robot",7,38,40,7.644444444,21.14444444,21:08:40,21,8,40
+6303,HD6515 04 On-site Mapping HD6515,Resolved,Low,Implementation,No Agent,THD Implementation,2022-07-11 17:09:21,2022-07-18 15:09:00,2022-07-18 15:13:31,,2022-07-18 15:16:53,22:04:03,SLA Violated,"Implementation,THD",Child,HD6515,PVS20220321T1A1111,,4,6299,,,76086,TX,Weatherford,"220 I-20 West, Weatherford, TX 76086, US.","220 I-20 West, Weatherford, TX 76086, US.",04 On-site Mapping,22,4,3,22.0675,166.0694444,166:04:10,166,4,10
+6304,HD0658 THD Implementation Store,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-11 17:22:10,2022-07-25 23:59:00,,,2022-07-11 17:49:02,0:00:00,,"Implementation,THD",Parent,HD0658,PVS20220321T3A3108,,0,,,,91910,CA,Chula Vista,"725 Plaza Ct, Chula Vista, CA 91910, US.","725 Plaza Ct, Chula Vista, CA 91910, US.",,0,0,0,,,-1074089:22:10,-1074089,22,10
+6305,HD0658 01 Check 24h power for new store,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-11 17:22:11,2022-07-13 9:22:11,2022-07-13 9:54:16,2022-07-15 10:25:11,2022-07-15 10:25:11,13:32:05,SLA Violated,"Implementation,THD,OPS,Daily OPS",Child,HD0658,PVS20220321T3A3108,Yes,1,6304,,,91910,CA,Chula Vista,"725 Plaza Ct, Chula Vista, CA 91910, US.","725 Plaza Ct, Chula Vista, CA 91910, US.",01 Check 24h Power,13,32,5,13.53472222,40.53472222,40:32:05,40,32,5
+6306,HD0658 02 Update Software and check robot,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-11 17:22:12,2022-07-12 14:52:12,2022-07-13 11:49:38,2022-07-15 12:25:05,2022-07-15 12:25:05,15:27:26,SLA Violated,"Implementation,THD,OPS",Child,HD0658,PVS20220321T3A3108,,2,6304,,,91910,CA,Chula Vista,"725 Plaza Ct, Chula Vista, CA 91910, US.","725 Plaza Ct, Chula Vista, CA 91910, US.",02 Update Software and Check Robot,15,27,26,15.45722222,42.45722222,42:27:26,42,27,26
+6307,"HD0658 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-11 17:22:12,2022-07-12 14:52:12,2022-07-13 11:12:37,2022-07-15 11:26:09,2022-07-15 11:26:09,14:50:25,SLA Violated,"Implementation,THD,OPS",Child,HD0658,PVS20220321T3A3108,,3,6304,,,91910,CA,Chula Vista,"725 Plaza Ct, Chula Vista, CA 91910, US.","725 Plaza Ct, Chula Vista, CA 91910, US.","03 Get Robot Info, generate API keys and update robot",14,50,25,14.84027778,41.84027778,41:50:25,41,50,25
+6308,HD0658 04 On-site Mapping HD0658,Resolved,Low,Implementation,No Agent,THD Implementation,2022-07-11 17:22:13,2022-07-18 15:22:00,2022-07-18 15:21:58,,2022-07-18 15:23:45,21:59:38,Within SLA,"Implementation,THD",Child,HD0658,PVS20220321T3A3108,,4,6304,,,91910,CA,Chula Vista,"725 Plaza Ct, Chula Vista, CA 91910, US.","725 Plaza Ct, Chula Vista, CA 91910, US.",04 On-site Mapping,21,59,38,21.99388889,165.9958333,165:59:45,165,59,45
+6309,HD1914 THD Implementation Store,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-11 17:27:58,2022-07-25 23:59:00,,,2022-07-11 17:49:03,0:00:00,,"Implementation,THD",Parent,HD1914,PVS20220328T3A3113,,0,,,,60620,IL,Chicago,"200-232 W 87th St, Chicago, IL 60620, US.","200-232 W 87th St, Chicago, IL 60620, US.",,0,0,0,,,-1074089:27:58,-1074089,27,58
+6310,HD1914 01 Check 24h power for new store,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-11 17:27:58,2022-07-13 9:27:59,2022-07-13 9:13:42,2022-07-15 9:25:29,2022-07-15 9:25:29,12:45:44,Within SLA,"Implementation,THD,OPS,Daily OPS",Child,HD1914,PVS20220328T3A3113,Yes,1,6309,,,60620,IL,Chicago,"200-232 W 87th St, Chicago, IL 60620, US.","200-232 W 87th St, Chicago, IL 60620, US.",01 Check 24h Power,12,45,44,12.76222222,39.76222222,39:45:44,39,45,44
+6311,HD1914 02 Update Software and check robot,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-11 17:27:59,2022-07-12 14:57:59,2022-07-12 14:54:10,2022-07-14 15:25:04,2022-07-14 15:25:04,7:56:11,Within SLA,"Implementation,THD,OPS",Child,HD1914,PVS20220328T3A3113,,2,6309,,,60620,IL,Chicago,"200-232 W 87th St, Chicago, IL 60620, US.","200-232 W 87th St, Chicago, IL 60620, US.",02 Update Software and Check Robot,7,56,11,7.936388889,21.43638889,21:26:11,21,26,11
+6312,"HD1914 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-11 17:27:59,2022-07-12 14:58:00,2022-07-12 14:29:41,2022-07-14 15:25:05,2022-07-14 15:25:05,7:31:42,Within SLA,"Implementation,THD,OPS",Child,HD1914,PVS20220328T3A3113,,3,6309,,,60620,IL,Chicago,"200-232 W 87th St, Chicago, IL 60620, US.","200-232 W 87th St, Chicago, IL 60620, US.","03 Get Robot Info, generate API keys and update robot",7,31,42,7.528333333,21.02833333,21:01:42,21,1,42
+6313,HD1914 04 On-site Mapping HD1914,Open,Low,Implementation,No Agent,THD Implementation,2022-07-11 17:28:00,2022-07-18 23:59:00,,,2022-07-19 1:11:05,0:00:00,,"Implementation,THD",Child,HD1914,PVS20220328T3A3113,,4,6309,,,60620,IL,Chicago,"200-232 W 87th St, Chicago, IL 60620, US.","200-232 W 87th St, Chicago, IL 60620, US.",04 On-site Mapping,0,0,0,,,-1074089:28:00,-1074089,28,0
+6314,HD0206 THD Implementation Store,Working on it,Low,Implementation,Tripp Hemker,THD Implementation,2022-07-11 18:46:09,2022-07-22 12:00:00,,,2022-07-18 15:47:41,0:00:00,,"Implementation,THD",Parent,HD0206,PVS20220328T5A1115,,0,,,,33165,FL,Miami,"11305 SW 40th St, Miami, FL 33165, US.","11305 SW 40th St, Miami, FL 33165, US.",,0,0,0,,,-1074090:46:09,-1074090,46,9
+6315,HD0206 01 Check 24h power for new store,Open,Medium,Implementation,Lucas Ron,Operations,2022-07-11 18:46:11,2022-07-13 10:00:00,,,2022-07-13 11:17:04,0:00:00,,"Implementation,THD,OPS,Daily OPS",Child,HD0206,PVS20220328T5A1115,Yes,1,6314,,,33165,FL,Miami,"11305 SW 40th St, Miami, FL 33165, US.","11305 SW 40th St, Miami, FL 33165, US.",01 Check 24h Power,0,0,0,,,-1074090:46:11,-1074090,46,11
+6316,HD0206 02 Update Software and check robot,Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-11 18:46:11,2022-07-12 15:30:00,,,2022-07-12 16:40:01,0:00:00,,"Implementation,THD,OPS",Child,HD0206,PVS20220328T5A1115,,2,6314,,,33165,FL,Miami,"11305 SW 40th St, Miami, FL 33165, US.","11305 SW 40th St, Miami, FL 33165, US.",02 Update Software and Check Robot,0,0,0,,,-1074090:46:11,-1074090,46,11
+6317,"HD0206 03 Get Robot Info, generate API keys and update robot",Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-11 18:46:12,2022-07-13 23:59:59,,,2022-07-14 1:00:18,0:00:00,,"Implementation,THD,OPS",Child,HD0206,PVS20220328T5A1115,,3,6314,,,33165,FL,Miami,"11305 SW 40th St, Miami, FL 33165, US.","11305 SW 40th St, Miami, FL 33165, US.","03 Get Robot Info, generate API keys and update robot",0,0,0,,,-1074090:46:12,-1074090,46,12
+6318,HD0206 04 On-site Mapping HD0206,Open,Low,Implementation,No Agent,THD Implementation,2022-07-11 18:46:12,2022-07-18 10:00:00,,,2022-07-18 11:12:52,0:00:00,,"Implementation,THD",Child,HD0206,PVS20220328T5A1115,,4,6314,,,33165,FL,Miami,"11305 SW 40th St, Miami, FL 33165, US.","11305 SW 40th St, Miami, FL 33165, US.",04 On-site Mapping,0,0,0,,,-1074090:46:12,-1074090,46,12
+6332,HD0279 05 Consolidate Map and layout,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-12 7:46:24,2022-07-12 15:46:24,2022-07-12 15:46:37,2022-07-14 16:25:03,2022-07-14 16:25:03,8:00:13,SLA Violated,"THD,Implementation,OPS",Child,HD0279,PVS20220314T2A2102,,5,6205,,,33604,FL,Tampa,"8815 N Florida Ave, Tampa, FL 33604, US.","8815 N Florida Ave, Tampa, FL 33604, US.",05 Map and layout consolidation,8,0,13,8.003611111,8.003611111,8:00:13,8,0,13
+6344,HD0566 05 Consolidate Map and layout,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-12 9:29:50,2022-07-12 17:29:50,2022-07-12 17:51:51,2022-07-14 18:25:52,2022-07-14 18:25:52,8:22:01,SLA Violated,"THD,Implementation,OPS",Child,HD0566,SYS20210913T2A2092,,5,6019,,,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.",05 Map and layout consolidation,8,22,1,8.366944444,8.366944444,8:22:01,8,22,1
+6356,HD0277 08 Calibration,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-12 13:04:48,2022-07-13 10:34:48,2022-07-13 9:13:58,2022-07-15 9:25:30,2022-07-15 9:25:30,6:39:10,Within SLA,"THD,Implementation,OPS",Child,HD0277,PVS20220314T1A1101,,8,6003,,,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.",08 Calibration,6,39,10,6.652777778,20.15277778,20:09:10,20,9,10
+6357,HD0659 THD Implementation Store,Working on it,Low,Implementation,Kingsley Agbedun,THD Implementation,2022-07-12 13:57:10,2022-07-29 12:00:00,,,2022-07-12 14:27:30,0:00:00,,"Implementation,THD",Parent,HD0659,PVS20220321T4A4109,,0,,,,91945,CA,Lemon Grove,"7530 Broadway, Lemon Grove, CA 91945, US.","7530 Broadway, Lemon Grove, CA 91945, US.",,0,0,0,,,-1074109:57:10,-1074109,57,10
+6358,HD0659 01 Check 24h power for new store,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-12 13:57:10,2022-07-13 16:27:10,2022-07-13 9:15:14,2022-07-15 9:25:30,2022-07-15 9:25:30,5:48:04,Within SLA,"Implementation,THD,OPS,Daily OPS",Child,HD0659,PVS20220321T4A4109,Yes,1,6357,,,91945,CA,Lemon Grove,"7530 Broadway, Lemon Grove, CA 91945, US.","7530 Broadway, Lemon Grove, CA 91945, US.",01 Check 24h Power,5,48,4,5.801111111,19.30111111,19:18:04,19,18,4
+6359,HD0659 02 Update Software and check robot,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-12 13:57:10,2022-07-13 11:27:10,2022-07-12 18:23:59,2022-07-14 18:25:53,2022-07-14 18:25:53,4:02:50,Within SLA,"Implementation,THD,OPS",Child,HD0659,PVS20220321T4A4109,,2,6357,,,91945,CA,Lemon Grove,"7530 Broadway, Lemon Grove, CA 91945, US.","7530 Broadway, Lemon Grove, CA 91945, US.",02 Update Software and Check Robot,4,2,50,4.047222222,4.446944444,4:26:49,4,26,49
+6360,"HD0659 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-12 13:57:11,2022-07-13 11:27:11,2022-07-12 17:47:40,2022-07-14 18:25:53,2022-07-14 18:25:53,3:50:29,Within SLA,"Implementation,THD,OPS",Child,HD0659,PVS20220321T4A4109,,3,6357,,,91945,CA,Lemon Grove,"7530 Broadway, Lemon Grove, CA 91945, US.","7530 Broadway, Lemon Grove, CA 91945, US.","03 Get Robot Info, generate API keys and update robot",3,50,29,3.841388889,3.841388889,3:50:29,3,50,29
+6361,HD0659 04 On-site Mapping HD0659,Open,Low,Implementation,No Agent,THD Implementation,2022-07-12 13:57:11,2022-07-15 10:00:00,,,2022-07-15 11:01:00,0:00:00,,"Implementation,THD",Child,HD0659,PVS20220321T4A4109,,4,6357,,,91945,CA,Lemon Grove,"7530 Broadway, Lemon Grove, CA 91945, US.","7530 Broadway, Lemon Grove, CA 91945, US.",04 On-site Mapping,0,0,0,,,-1074109:57:11,-1074109,57,11
+6362,HD6840 THD Implementation Store,Working on it,Low,Implementation,Vernon Allen,THD Implementation,2022-07-12 14:00:36,2022-07-29 12:00:00,,,2022-07-12 14:27:31,0:00:00,,"Implementation,THD",Parent,HD6840,PVS20220321T2A2112,,0,,,,76208,TX,Denton,"1900 Brinker Rd, Denton, TX 76208, US.","1900 Brinker Rd, Denton, TX 76208, US.",,0,0,0,,,-1074110:00:36,-1074110,0,36
+6363,HD6840 01 Check 24h power for new store,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-12 14:00:36,2022-07-13 16:30:36,2022-07-13 9:15:29,2022-07-15 9:25:30,2022-07-15 9:25:30,5:44:53,Within SLA,"Implementation,THD,OPS,Daily OPS",Child,HD6840,PVS20220321T2A2112,Yes,1,6362,,,76208,TX,Denton,"1900 Brinker Rd, Denton, TX 76208, US.","1900 Brinker Rd, Denton, TX 76208, US.",01 Check 24h Power,5,44,53,5.748055556,19.24805556,19:14:53,19,14,53
+6364,HD6840 02 Update Software and check robot,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-12 14:00:37,2022-07-13 11:30:37,2022-07-12 17:53:09,2022-07-14 18:25:53,2022-07-14 18:25:53,3:52:32,Within SLA,"Implementation,THD,OPS",Child,HD6840,PVS20220321T2A2112,,2,6362,,,76208,TX,Denton,"1900 Brinker Rd, Denton, TX 76208, US.","1900 Brinker Rd, Denton, TX 76208, US.",02 Update Software and Check Robot,3,52,32,3.875555556,3.875555556,3:52:32,3,52,32
+6365,"HD6840 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-12 14:00:38,2022-07-13 11:30:38,2022-07-12 17:45:25,2022-07-14 18:25:53,2022-07-14 18:25:53,3:44:47,Within SLA,"Implementation,THD,OPS",Child,HD6840,PVS20220321T2A2112,,3,6362,,,76208,TX,Denton,"1900 Brinker Rd, Denton, TX 76208, US.","1900 Brinker Rd, Denton, TX 76208, US.","03 Get Robot Info, generate API keys and update robot",3,44,47,3.746388889,3.746388889,3:44:47,3,44,47
+6366,HD6840 04 On-site Mapping HD6840,Open,Low,Implementation,No Agent,THD Implementation,2022-07-12 14:00:38,2022-07-19 10:00:00,,,2022-07-19 8:54:49,0:00:00,,"Implementation,THD",Child,HD6840,PVS20220321T2A2112,,4,6362,,,76208,TX,Denton,"1900 Brinker Rd, Denton, TX 76208, US.","1900 Brinker Rd, Denton, TX 76208, US.",04 On-site Mapping,0,0,0,,,-1074110:00:38,-1074110,0,38
+6367,HD6378 THD Implementation Store,Working on it,Low,Implementation,Kingsley Agbedun,THD Implementation,2022-07-12 14:05:39,2022-07-22 12:00:00,,,2022-07-13 17:48:53,0:00:00,,"Implementation,THD",Parent,HD6378,PVS20220314T5A1105,,0,,,,33010,FL,Hialeah,"950 SE 12th St, Hialeah, FL 33010, US.","950 SE 12th St, Hialeah, FL 33010, US.",,0,0,0,,,-1074110:05:39,-1074110,5,39
+6368,HD6378 01 Check 24h power for new store,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-12 14:05:39,2022-07-13 16:35:39,2022-07-13 9:17:53,2022-07-15 9:25:30,2022-07-15 9:25:30,5:42:14,Within SLA,"Implementation,THD,OPS,Daily OPS",Child,HD6378,PVS20220314T5A1105,Yes,1,6367,,,33010,FL,Hialeah,"950 SE 12th St, Hialeah, FL 33010, US.","950 SE 12th St, Hialeah, FL 33010, US.",01 Check 24h Power,5,42,14,5.703888889,19.20388889,19:12:14,19,12,14
+6369,HD6378 02 Update Software and check robot,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-12 14:05:40,2022-07-12 21:00:00,2022-07-12 17:39:08,2022-07-14 18:25:53,2022-07-14 18:25:53,3:33:28,Within SLA,"Implementation,THD,OPS",Child,HD6378,PVS20220314T5A1105,,2,6367,,,33010,FL,Hialeah,"950 SE 12th St, Hialeah, FL 33010, US.","950 SE 12th St, Hialeah, FL 33010, US.",02 Update Software and Check Robot,3,33,28,3.557777778,3.557777778,3:33:28,3,33,28
+6370,"HD6378 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-12 14:05:41,2022-07-12 21:00:00,2022-07-12 17:25:15,2022-07-14 18:25:54,2022-07-14 18:25:54,3:19:34,Within SLA,"Implementation,THD,OPS",Child,HD6378,PVS20220314T5A1105,,3,6367,,,33010,FL,Hialeah,"950 SE 12th St, Hialeah, FL 33010, US.","950 SE 12th St, Hialeah, FL 33010, US.","03 Get Robot Info, generate API keys and update robot",3,19,34,3.326111111,3.326111111,3:19:34,3,19,34
+6371,HD6378 04 On-site Mapping HD6378,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-12 14:05:42,2022-07-13 11:00:00,2022-07-13 10:14:43,2022-07-15 10:25:11,2022-07-15 10:25:11,20:09:00,Within SLA,"Implementation,THD",Child,HD6378,PVS20220314T5A1105,,4,6367,,,33010,FL,Hialeah,"950 SE 12th St, Hialeah, FL 33010, US.","950 SE 12th St, Hialeah, FL 33010, US.",04 On-site Mapping,20,9,0,20.15,20.15027778,20:09:01,20,9,1
+6373,HD0279 06 On-site mapping validation,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-12 15:46:38,2022-07-13 13:46:39,2022-07-13 9:29:23,2022-07-15 10:25:12,2022-07-15 10:25:11,17:42:44,Within SLA,"THD,Implementation",Child,HD0279,PVS20220314T2A2102,,6,6205,,,33604,FL,Tampa,"8815 N Florida Ave, Tampa, FL 33604, US.","8815 N Florida Ave, Tampa, FL 33604, US.",06 On-site Map validation,17,42,44,17.71222222,17.7125,17:42:45,17,42,45
+6381,HD0566 06 On-site mapping validation,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-12 17:51:51,2022-07-14 23:59:59,2022-07-14 8:11:45,2022-07-16 8:29:29,2022-07-16 8:29:29,14:19:52,Within SLA,"THD,Implementation",Child,HD0566,SYS20210913T2A2092,,6,6019,,,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.",06 On-site Map validation,14,19,52,14.33111111,38.33166667,38:19:54,38,19,54
+6382,HD6892 06 On-site mapping validation,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-12 19:37:13,2022-07-13 17:37:14,2022-07-13 12:31:33,2022-07-15 13:25:08,2022-07-15 13:25:08,16:54:19,Within SLA,"THD,Implementation",Child,HD6892,1117119147,,6,6014,,,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.",06 On-site Map validation,16,54,19,16.90527778,16.90555556,16:54:20,16,54,20
+6401,HD0277 09 New Store Scan Validation,Open,High,Implementation,Hugo del Pino,Data Audit,2022-07-13 9:13:59,2022-07-14 15:13:59,,,2022-07-15 17:39:15,0:00:00,,"THD,Implementation",Child,HD0277,PVS20220314T1A1101,,9,6003,,,33135,FL,Miami,"3030 SW  8th St, Miami, FL 33135, US.","3030 SW  8th St, Miami, FL 33135, US.",09 Store Validation,0,0,0,,,-1074129:13:59,-1074129,13,59
+6402,HD0279 07 Start Scan Testing,Closed,Low,Implementation,Lucas Ron,Operations,2022-07-13 9:29:24,2022-07-15 10:29:24,2022-07-15 9:33:29,2022-07-17 10:27:00,2022-07-17 10:27:00,21:04:05,Within SLA,"THD,Implementation,OPS,Daily OPS",Child,HD0279,PVS20220314T2A2102,Yes,7,6205,,,33604,FL,Tampa,"8815 N Florida Ave, Tampa, FL 33604, US.","8815 N Florida Ave, Tampa, FL 33604, US.",07 Scan Testing,21,4,5,21.06805556,48.06805556,48:04:05,48,4,5
+6403,HD0503 05 Consolidate Map and layout,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-13 10:02:29,2022-07-14 7:32:29,2022-07-14 10:57:35,2022-07-16 11:24:31,2022-07-16 11:24:31,11:25:06,SLA Violated,"THD,Implementation,OPS",Child,HD0503,SYS20210913T1A1091,,5,6087,,,78223,TX,San Antonio,"527 Fair Ave, San Antonio, TX 78223, US.","527 Fair Ave, San Antonio, TX 78223, US.",05 Map and layout consolidation,11,25,6,11.41833333,24.91833333,24:55:06,24,55,6
+6404,HD6516 05 Consolidate Map and layout,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-13 10:08:45,2022-07-14 7:38:45,2022-07-13 16:44:06,2022-07-15 17:25:35,2022-07-15 17:25:35,6:35:21,Within SLA,"THD,Implementation,OPS",Child,HD6516,SYS20210913T3A3095,,5,6092,,,77385,TX,Conroe,"19103 I-45, Conroe, TX 77385, US.","19103 I-45, Conroe, TX 77385, US.",05 Map and layout consolidation,6,35,21,6.589166667,6.589166667,6:35:21,6,35,21
+6405,HD6378 05 Consolidate Map and layout,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-13 10:14:44,2022-07-14 7:44:44,2022-07-13 17:36:01,2022-07-15 18:25:21,2022-07-15 18:25:21,7:21:17,Within SLA,"THD,Implementation,OPS",Child,HD6378,PVS20220314T5A1105,,5,6367,,,33010,FL,Hialeah,"950 SE 12th St, Hialeah, FL 33010, US.","950 SE 12th St, Hialeah, FL 33010, US.",05 Map and layout consolidation,7,21,17,7.354722222,7.354722222,7:21:17,7,21,17
+6417,HD6892 07 Start Scan Testing,Closed,Low,Implementation,Lucas Ron,Operations,2022-07-13 12:31:34,2022-07-15 13:31:34,2022-07-15 10:46:24,2022-07-17 11:24:25,2022-07-17 11:24:25,19:14:50,Within SLA,"THD,Implementation,OPS,Daily OPS",Child,HD6892,1117119147,Yes,7,6014,,,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.",07 Scan Testing,19,14,50,19.24722222,46.24722222,46:14:50,46,14,50
+6424,HD6516 06 On-site mapping validation,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-13 16:44:08,2022-07-14 14:44:09,2022-07-14 7:19:06,2022-07-16 7:29:38,2022-07-16 7:29:38,14:34:57,Within SLA,"THD,Implementation",Child,HD6516,SYS20210913T3A3095,,6,6092,,,77385,TX,Conroe,"19103 I-45, Conroe, TX 77385, US.","19103 I-45, Conroe, TX 77385, US.",06 On-site Map validation,14,34,57,14.5825,14.58277778,14:34:58,14,34,58
+6427,HD6378 06 On-site mapping validation,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-13 17:36:02,2022-07-14 15:36:03,2022-07-14 6:15:05,2022-07-16 6:27:24,2022-07-16 6:27:24,12:39:02,Within SLA,"THD,Implementation",Child,HD6378,PVS20220314T5A1105,,6,6367,,,33010,FL,Hialeah,"950 SE 12th St, Hialeah, FL 33010, US.","950 SE 12th St, Hialeah, FL 33010, US.",06 On-site Map validation,12,39,2,12.65055556,12.65083333,12:39:03,12,39,3
+6437,HD6378 07 Start Scan Testing,Resolved,Low,Implementation,Lucas Ron,Operations,2022-07-14 6:15:06,2022-07-18 8:30:00,2022-07-18 9:14:34,,2022-07-18 9:14:34,22:44:34,SLA Violated,"THD,Implementation,OPS,Daily OPS",Child,HD6378,PVS20220314T5A1105,Yes,7,6367,,,33010,FL,Hialeah,"950 SE 12th St, Hialeah, FL 33010, US.","950 SE 12th St, Hialeah, FL 33010, US.",07 Scan Testing,22,44,34,22.74277778,98.99111111,98:59:28,98,59,28
+6444,HD6516 07 Start Scan Testing,Resolved,Low,Implementation,Lucas Ron,Operations,2022-07-14 7:19:07,2022-07-18 8:30:00,2022-07-18 9:15:04,,2022-07-18 9:15:03,22:45:04,SLA Violated,"THD,Implementation,OPS,Daily OPS",Child,HD6516,SYS20210913T3A3095,Yes,7,6092,,,77385,TX,Conroe,"19103 I-45, Conroe, TX 77385, US.","19103 I-45, Conroe, TX 77385, US.",07 Scan Testing,22,45,4,22.75111111,97.9325,97:55:57,97,55,57
+6445,HD0566 07 Start Scan Testing,Resolved,Low,Implementation,Lucas Ron,Operations,2022-07-14 8:11:46,2022-07-18 9:11:46,2022-07-18 9:15:22,,2022-07-18 9:15:22,22:03:36,SLA Violated,"THD,Implementation,OPS,Daily OPS",Child,HD0566,SYS20210913T2A2092,Yes,7,6019,,,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.",07 Scan Testing,22,3,36,22.06,97.06,97:03:36,97,3,36
+6455,HD0503 06 On-site mapping validation,Closed,Low,Implementation,No Agent,THD Implementation,2022-07-14 10:57:37,2022-07-15 8:57:38,2022-07-14 11:01:39,2022-07-16 11:24:31,2022-07-16 11:24:31,0:04:02,Within SLA,"THD,Implementation",Child,HD0503,SYS20210913T1A1091,,6,6087,,,78223,TX,San Antonio,"527 Fair Ave, San Antonio, TX 78223, US.","527 Fair Ave, San Antonio, TX 78223, US.",06 On-site Map validation,0,4,2,0.06722222222,0.06722222222,0:04:02,0,4,2
+6456,HD0503 07 Start Scan Testing,Resolved,Low,Implementation,Lucas Ron,Operations,2022-07-14 11:01:40,2022-07-18 12:01:40,2022-07-18 9:15:39,,2022-07-18 9:15:39,19:13:59,Within SLA,"THD,Implementation,OPS,Daily OPS",Child,HD0503,SYS20210913T1A1091,Yes,7,6087,,,78223,TX,San Antonio,"527 Fair Ave, San Antonio, TX 78223, US.","527 Fair Ave, San Antonio, TX 78223, US.",07 Scan Testing,19,13,59,19.23305556,94.23305556,94:13:59,94,13,59
+6458,HD0255 THD Implementation Store,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-14 11:49:48,2022-07-29 12:00:00,,,2022-07-14 15:20:35,0:00:00,,"Implementation,THD",Parent,HD0255,PVS20220328T1A1116,,0,,,,34233,FL,Sarasota,"4111 Cattlemen Rd, Sarasota, FL 34233, US.","4111 Cattlemen Rd, Sarasota, FL 34233, US.",,0,0,0,,,-1074155:49:48,-1074155,49,48
+6459,HD0255 01 Check 24h power for new store,Open,Medium,Implementation,Lucas Ron,Operations,2022-07-14 11:49:48,2022-07-20 6:00:00,,,2022-07-14 15:22:02,0:00:00,,"Implementation,THD,OPS,Daily OPS",Child,HD0255,PVS20220328T1A1116,Yes,1,6458,,,34233,FL,Sarasota,"4111 Cattlemen Rd, Sarasota, FL 34233, US.","4111 Cattlemen Rd, Sarasota, FL 34233, US.",01 Check 24h Power,0,0,0,,,-1074155:49:48,-1074155,49,48
+6460,HD0255 02 Update Software and check robot,Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-14 11:49:49,2022-07-19 17:00:00,,,2022-07-14 15:21:06,0:00:00,,"Implementation,THD,OPS",Child,HD0255,PVS20220328T1A1116,,2,6458,,,34233,FL,Sarasota,"4111 Cattlemen Rd, Sarasota, FL 34233, US.","4111 Cattlemen Rd, Sarasota, FL 34233, US.",02 Update Software and Check Robot,0,0,0,,,-1074155:49:49,-1074155,49,49
+6461,"HD0255 03 Get Robot Info, generate API keys and update robot",Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-14 11:49:49,2022-07-19 17:00:00,,,2022-07-14 15:21:21,0:00:00,,"Implementation,THD,OPS",Child,HD0255,PVS20220328T1A1116,,3,6458,,,34233,FL,Sarasota,"4111 Cattlemen Rd, Sarasota, FL 34233, US.","4111 Cattlemen Rd, Sarasota, FL 34233, US.","03 Get Robot Info, generate API keys and update robot",0,0,0,,,-1074155:49:49,-1074155,49,49
+6462,HD0255 04 On-site Mapping HD0255,Open,Low,Implementation,No Agent,THD Implementation,2022-07-14 11:49:49,2022-07-19 10:00:00,,,2022-07-19 8:54:49,0:00:00,,"Implementation,THD",Child,HD0255,PVS20220328T1A1116,,4,6458,,,34233,FL,Sarasota,"4111 Cattlemen Rd, Sarasota, FL 34233, US.","4111 Cattlemen Rd, Sarasota, FL 34233, US.",04 On-site Mapping,0,0,0,,,-1074155:49:49,-1074155,49,49
+6466,HD6661 THD Implementation Store,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-14 13:49:44,2022-07-29 12:00:00,,,2022-07-14 15:14:48,0:00:00,,"Implementation,THD",Parent,HD6661,PVS20220321T2A2107,,0,,,,91406,CA,Van Nuys,"16800 Roscoe Blvd, Van Nuys, CA 91406, US.","16800 Roscoe Blvd, Van Nuys, CA 91406, US.",,0,0,0,,,-1074157:49:44,-1074157,49,44
+6467,HD6661 01 Check 24h power for new store,Closed,Medium,Implementation,Lucas Ron,Operations,2022-07-14 13:49:44,2022-07-15 16:19:44,2022-07-15 12:20:12,2022-07-17 12:25:27,2022-07-17 12:25:27,9:00:28,Within SLA,"Implementation,THD,OPS,Daily OPS",Child,HD6661,PVS20220321T2A2107,Yes,1,6466,,,91406,CA,Van Nuys,"16800 Roscoe Blvd, Van Nuys, CA 91406, US.","16800 Roscoe Blvd, Van Nuys, CA 91406, US.",01 Check 24h Power,9,0,28,9.007777778,22.50777778,22:30:28,22,30,28
+6468,HD6661 02 Update Software and check robot,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-14 13:49:45,2022-07-15 11:19:45,2022-07-14 16:39:00,2022-07-16 18:24:31,2022-07-16 18:24:31,2:49:15,Within SLA,"Implementation,THD,OPS",Child,HD6661,PVS20220321T2A2107,,2,6466,,,91406,CA,Van Nuys,"16800 Roscoe Blvd, Van Nuys, CA 91406, US.","16800 Roscoe Blvd, Van Nuys, CA 91406, US.",02 Update Software and Check Robot,2,49,15,2.820833333,2.820833333,2:49:15,2,49,15
+6469,"HD6661 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-14 13:49:45,2022-07-15 11:19:45,2022-07-14 16:38:47,2022-07-16 18:24:31,2022-07-16 18:24:31,2:49:02,Within SLA,"Implementation,THD,OPS",Child,HD6661,PVS20220321T2A2107,,3,6466,,,91406,CA,Van Nuys,"16800 Roscoe Blvd, Van Nuys, CA 91406, US.","16800 Roscoe Blvd, Van Nuys, CA 91406, US.","03 Get Robot Info, generate API keys and update robot",2,49,2,2.817222222,2.817222222,2:49:02,2,49,2
+6470,HD6661 04 On-site Mapping HD6661,Open,Low,Implementation,No Agent,THD Implementation,2022-07-14 13:49:46,2022-07-20 10:00:00,,,2022-07-14 15:14:56,0:00:00,,"Implementation,THD",Child,HD6661,PVS20220321T2A2107,,4,6466,,,91406,CA,Van Nuys,"16800 Roscoe Blvd, Van Nuys, CA 91406, US.","16800 Roscoe Blvd, Van Nuys, CA 91406, US.",04 On-site Mapping,0,0,0,,,-1074157:49:46,-1074157,49,46
+6487,HD0279 08 Calibration,Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-15 9:33:30,2022-07-20 23:59:00,,,2022-07-18 18:18:47,0:00:00,,"THD,Implementation,OPS",Child,HD0279,PVS20220314T2A2102,,8,6205,,,33604,FL,Tampa,"8815 N Florida Ave, Tampa, FL 33604, US.","8815 N Florida Ave, Tampa, FL 33604, US.",08 Calibration,0,0,0,,,-1074177:33:30,-1074177,33,30
+6490,HD6892 08 Calibration,Resolved,Urgent,Implementation,Lucas Ron,Operations,2022-07-15 10:46:25,2022-07-18 8:16:25,2022-07-18 9:29:58,,2022-07-18 9:29:58,9:13:33,SLA Violated,"THD,Implementation,OPS",Child,HD6892,1117119147,,8,6014,,,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.",08 Calibration,9,13,33,9.225833333,70.72583333,70:43:33,70,43,33
+6509,HD1912 THD Implementation Store,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-15 15:39:11,2022-07-29 12:00:00,,,2022-07-15 16:13:50,0:00:00,,"Implementation,THD",Parent,HD1912,PVS20220321T5A1110,,0,,,,60642,IL,Chicago,"1232 W North Ave, Chicago, IL 60642, US.","1232 W North Ave, Chicago, IL 60642, US.",,0,0,0,,,-1074183:39:11,-1074183,39,11
+6510,HD1912 01 Check 24h power for new store,Open,Medium,Implementation,Lucas Ron,Operations,2022-07-15 15:39:13,2022-07-19 7:39:13,,,2022-07-19 8:41:36,0:00:00,,"Implementation,THD,OPS,Daily OPS",Child,HD1912,PVS20220321T5A1110,Yes,1,6509,,,60642,IL,Chicago,"1232 W North Ave, Chicago, IL 60642, US.","1232 W North Ave, Chicago, IL 60642, US.",01 Check 24h Power,0,0,0,,,-1074183:39:13,-1074183,39,13
+6511,HD1912 02 Update Software and check robot,Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-15 15:39:13,2022-07-18 13:09:13,2022-07-15 16:59:32,2022-07-17 17:25:33,2022-07-17 17:25:33,1:20:19,Within SLA,"Implementation,THD,OPS",Child,HD1912,PVS20220321T5A1110,,2,6509,,,60642,IL,Chicago,"1232 W North Ave, Chicago, IL 60642, US.","1232 W North Ave, Chicago, IL 60642, US.",02 Update Software and Check Robot,1,20,19,1.338611111,1.338611111,1:20:19,1,20,19
+6512,"HD1912 03 Get Robot Info, generate API keys and update robot",Closed,Urgent,Implementation,Lucas Ron,Operations,2022-07-15 15:39:13,2022-07-18 13:09:13,2022-07-15 16:37:04,2022-07-17 17:25:34,2022-07-17 17:25:34,0:57:51,Within SLA,"Implementation,THD,OPS",Child,HD1912,PVS20220321T5A1110,,3,6509,,,60642,IL,Chicago,"1232 W North Ave, Chicago, IL 60642, US.","1232 W North Ave, Chicago, IL 60642, US.","03 Get Robot Info, generate API keys and update robot",0,57,51,0.9641666667,0.9641666667,0:57:51,0,57,51
+6513,HD1912 04 On-site Mapping HD1912,Open,Low,Implementation,No Agent,THD Implementation,2022-07-15 15:39:14,2022-07-20 10:00:00,,,2022-07-15 16:13:51,0:00:00,,"Implementation,THD",Child,HD1912,PVS20220321T5A1110,,4,6509,,,60642,IL,Chicago,"1232 W North Ave, Chicago, IL 60642, US.","1232 W North Ave, Chicago, IL 60642, US.",04 On-site Mapping,0,0,0,,,-1074183:39:14,-1074183,39,14
+6544,HD0526 05 Consolidate Map and layout,Resolved,Urgent,Implementation,Lucas Ron,Operations,2022-07-18 8:56:20,2022-07-18 16:56:20,2022-07-18 17:40:05,,2022-07-18 17:40:05,8:43:45,SLA Violated,"THD,Implementation,OPS",Child,HD0526,SYS20210913T3A3088,,5,6151,,,78411,TX,Corpus Christi,"5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.","5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.",05 Map and layout consolidation,8,43,45,8.729166667,8.729166667,8:43:45,8,43,45
+6545,HD6378 08 Calibration,Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-18 9:14:36,2022-07-19 23:59:59,,,2022-07-18 9:52:44,0:00:00,,"THD,Implementation,OPS",Child,HD6378,PVS20220314T5A1105,,8,6367,,,33010,FL,Hialeah,"950 SE 12th St, Hialeah, FL 33010, US.","950 SE 12th St, Hialeah, FL 33010, US.",08 Calibration,0,0,0,,,-1074249:14:36,-1074249,14,36
+6546,HD6516 08 Calibration,Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-18 9:15:05,2022-07-19 23:59:59,,,2022-07-18 10:24:00,0:00:00,,"THD,Implementation,OPS",Child,HD6516,SYS20210913T3A3095,,8,6092,,,77385,TX,Conroe,"19103 I-45, Conroe, TX 77385, US.","19103 I-45, Conroe, TX 77385, US.",08 Calibration,0,0,0,,,-1074249:15:05,-1074249,15,5
+6547,HD0566 08 Calibration,Resolved,Urgent,Implementation,Lucas Ron,Operations,2022-07-18 9:15:28,2022-07-18 17:15:28,2022-07-18 10:33:29,,2022-07-18 10:33:29,1:18:01,Within SLA,"THD,Implementation,OPS",Child,HD0566,SYS20210913T2A2092,,8,6019,,,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.",08 Calibration,1,18,1,1.300277778,1.300277778,1:18:01,1,18,1
+6548,HD0503 08 Calibration,Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-18 9:15:40,2022-07-20 23:59:00,,,2022-07-18 18:18:18,0:00:00,,"THD,Implementation,OPS",Child,HD0503,SYS20210913T1A1091,,8,6087,,,78223,TX,San Antonio,"527 Fair Ave, San Antonio, TX 78223, US.","527 Fair Ave, San Antonio, TX 78223, US.",08 Calibration,0,0,0,,,-1074249:15:40,-1074249,15,40
+6549,HD6892 09 New Store Scan Validation,Open,High,Implementation,Hugo del Pino,Data Audit,2022-07-18 9:29:59,2022-07-19 15:29:59,,,2022-07-18 18:24:33,0:00:00,,"THD,Implementation",Child,HD6892,1117119147,,9,6014,,,78723,TX,Austin,"1200 Barbara Jordan Blvd, Austin, TX 78723, US.","1200 Barbara Jordan Blvd, Austin, TX 78723, US.",09 Store Validation,0,0,0,,,-1074249:29:59,-1074249,29,59
+6552,HD0566 09 New Store Scan Validation,Open,High,Implementation,Hugo del Pino,Data Audit,2022-07-18 10:33:30,2022-07-19 16:33:30,,,2022-07-18 18:24:14,0:00:00,,"THD,Implementation",Child,HD0566,SYS20210913T2A2092,,9,6019,,,77081,TX,Houston,"5445 West Loop, Houston, TX 77081, US.","5445 West Loop, Houston, TX 77081, US.",09 Store Validation,0,0,0,,,-1074250:33:30,-1074250,33,30
+6563,HD6512 THD Implementation Store,Working on it,Low,Implementation,Vernon Allen,THD Implementation,2022-07-18 14:56:40,2022-08-05 12:00:00,,,2022-07-18 15:14:49,0:00:00,,"Implementation,THD",Parent,HD6512,PVS20220328T2A2117,,0,,,,77070,TX,Houston,"21530 Sh 249, Houston, TX 77070, US.","21530 Sh 249, Houston, TX 77070, US.",,0,0,0,,,-1074254:56:40,-1074254,56,40
+6564,HD6512 01 Check 24h power for new store,Open,Medium,Implementation,Lucas Ron,Operations,2022-07-18 14:56:41,2022-07-19 17:26:41,,,2022-07-18 15:14:49,0:00:00,,"Implementation,THD,OPS,Daily OPS",Child,HD6512,PVS20220328T2A2117,Yes,1,6563,,,77070,TX,Houston,"21530 Sh 249, Houston, TX 77070, US.","21530 Sh 249, Houston, TX 77070, US.",01 Check 24h Power,0,0,0,,,-1074254:56:41,-1074254,56,41
+6565,HD6512 02 Update Software and check robot,Resolved,Urgent,Implementation,Lucas Ron,Operations,2022-07-18 14:56:42,2022-07-19 12:26:42,2022-07-18 17:35:26,,2022-07-18 17:35:26,2:38:44,Within SLA,"Implementation,THD,OPS",Child,HD6512,PVS20220328T2A2117,,2,6563,,,77070,TX,Houston,"21530 Sh 249, Houston, TX 77070, US.","21530 Sh 249, Houston, TX 77070, US.",02 Update Software and Check Robot,2,38,44,2.645555556,2.645555556,2:38:44,2,38,44
+6566,"HD6512 03 Get Robot Info, generate API keys and update robot",Resolved,Urgent,Implementation,Lucas Ron,Operations,2022-07-18 14:56:42,2022-07-19 12:26:42,2022-07-18 16:01:07,,2022-07-18 16:01:07,1:04:25,Within SLA,"Implementation,THD,OPS",Child,HD6512,PVS20220328T2A2117,,3,6563,,,77070,TX,Houston,"21530 Sh 249, Houston, TX 77070, US.","21530 Sh 249, Houston, TX 77070, US.","03 Get Robot Info, generate API keys and update robot",1,4,25,1.073611111,1.073611111,1:04:25,1,4,25
+6567,HD6512 04 On-site Mapping HD6512,Open,Low,Implementation,No Agent,THD Implementation,2022-07-18 14:56:42,2022-07-25 10:00:00,,,2022-07-18 15:14:50,0:00:00,,"Implementation,THD",Child,HD6512,PVS20220328T2A2117,,4,6563,,,77070,TX,Houston,"21530 Sh 249, Houston, TX 77070, US.","21530 Sh 249, Houston, TX 77070, US.",04 On-site Mapping,0,0,0,,,-1074254:56:42,-1074254,56,42
+6571,HD6515 05 Consolidate Map and layout,Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-18 15:13:32,2022-07-19 12:43:32,,,2022-07-18 15:30:34,0:00:00,,"THD,Implementation,OPS",Child,HD6515,PVS20220321T1A1111,,5,6299,,,76086,TX,Weatherford,"220 I-20 West, Weatherford, TX 76086, US.","220 I-20 West, Weatherford, TX 76086, US.",05 Map and layout consolidation,0,0,0,,,-1074255:13:32,-1074255,13,32
+6573,HD0658 05 Consolidate Map and layout,Open,Urgent,Implementation,Lucas Ron,Operations,2022-07-18 15:21:59,2022-07-19 12:51:59,,,2022-07-18 18:21:45,0:00:00,,"THD,Implementation,OPS",Child,HD0658,PVS20220321T3A3108,,5,6304,,,91910,CA,Chula Vista,"725 Plaza Ct, Chula Vista, CA 91910, US.","725 Plaza Ct, Chula Vista, CA 91910, US.",05 Map and layout consolidation,0,0,0,,,-1074255:21:59,-1074255,21,59
+6586,HD0526 06 On-site mapping validation,Working on it,Low,Implementation,No Agent,THD Implementation,2022-07-18 17:40:06,2022-07-19 15:40:07,,,2022-07-19 3:46:56,0:00:00,,"THD,Implementation",Child,HD0526,SYS20210913T3A3088,,6,6151,,,78411,TX,Corpus Christi,"5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.","5041S Padre Islnd Dr., Corpus Christi, TX 78411, US.",06 On-site Map validation,0,0,0,,,-1074257:40:06,-1074257,40,6
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,", ,  , US.",,,,,,,0:00:00,0,0,0
